@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView Swipe To Delete</string>
+    <string name="country_flag">Country Flag</string>
+</resources>
